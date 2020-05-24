@@ -11,7 +11,7 @@
 
 <h4 align="center"><img src="./img/1.png" alt="1" width="70%" /></h4>
 
-#### `2`  Открыть консоль браузера и построчно выполнить код из [console.js](https://github.com/DmitryRyumin/download_google_images/blob/master/console.js)
+#### `2`  Открыть консоль браузера и выполнить код из [console.js](https://github.com/DmitryRyumin/download_google_images/blob/master/console.js)
 
 > Должен быть загружен текстовый файл с URLs всех изображений
 
