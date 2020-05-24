@@ -9,4 +9,4 @@
 
 > При необходимости сделать скроллинг страницы
 
-<h4 align="center"><img src="./img/1.png" alt="1" style="width:500px" /></h4>
+<h4 align="center"><img src="./img/1.png" alt="1" style="max-width:70%" /></h4>
